@@ -1,0 +1,6 @@
+{
+    "port": "/dev/cu.usbmodem141401",
+    "board": "arduino:avr:uno",
+    "sketch": "Modules/Ultrasonic_Sensor_Module/Ultrasonic_Sensor_Module.ino",
+    "programmer": "ArduinoISP"
+}
